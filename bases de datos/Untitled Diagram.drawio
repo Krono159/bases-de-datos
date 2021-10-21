@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T18:28:00.016Z" agent="5.0 (Windows)" etag="WFTP1WrDmWikfZ-GNeSc" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T18:29:14.728Z" agent="5.0 (Windows)" etag="zhT5D02XhksBoe2kAPaD" version="15.5.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="678" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -116,6 +116,17 @@
         </mxCell>
         <mxCell id="L6jp1gwN16-Y71cTtxb2-1786" value="Las bases de datos jerarquicas son las primeras en ser usadas,&amp;nbsp; su estructura es parecida a la de un arbol" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="515" y="730" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="L6jp1gwN16-Y71cTtxb2-1789" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeColor=#12AAB5;strokeWidth=3;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" target="L6jp1gwN16-Y71cTtxb2-1790" source="1763">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="706" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="105" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6jp1gwN16-Y71cTtxb2-1790" value="Las bases de datos jerarquicas son las primeras en ser usadas,&amp;nbsp; su estructura es parecida a la de un arbol" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="754" width="150" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
