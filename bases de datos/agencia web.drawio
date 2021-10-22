@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T20:37:56.832Z" agent="5.0 (Windows)" etag="bvWGInN3DOs55PxUkkDr" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T20:41:21.729Z" agent="5.0 (Windows)" etag="6oNRnaKvrqMQbXogTdNz" version="15.5.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2035" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2146" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,9 @@
         </mxCell>
         <mxCell id="8X-OXVb_NeaaaaRVb3lo-3556" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1A1A1A;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;strokeColor=#182E3E;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-14" target="8X-OXVb_NeaaaaRVb3lo-3528">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8X-OXVb_NeaaaaRVb3lo-3557" value="Analista L.F. Sepulveda&#xa;Pagina Web&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;rounded=1;fontColor=#1A1A1A;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="40" width="710" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
