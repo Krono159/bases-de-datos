@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T18:47:50.512Z" agent="5.0 (Windows)" etag="viKdPWopS1ObRLt7SKEG" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-22T18:56:08.433Z" agent="5.0 (Windows)" etag="tmIymnfBywVp3ckUiavW" version="15.5.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2512" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -219,14 +219,6 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="qreoxUCZydBQFIOXqASZ" name="Página-2">
-    <mxGraphModel dx="1662" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B0E3E6" math="0" shadow="0">
-      <root>
-        <mxCell id="Z79bd3NZ9A2TlowmsK5A-0" />
-        <mxCell id="Z79bd3NZ9A2TlowmsK5A-1" parent="Z79bd3NZ9A2TlowmsK5A-0" />
       </root>
     </mxGraphModel>
   </diagram>
