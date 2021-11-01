@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T21:19:34.229Z" agent="5.0 (Windows)" etag="WbejKQODIAXK-xbFw1gc" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T21:21:37.213Z" agent="5.0 (Windows)" etag="CBfWJ8Pky9E_z45OUBaZ" version="15.5.9" type="github">
   <diagram id="T8jeUg6Fvq9I_6UWnS7R" name="Page-1">
     <mxGraphModel dx="1055" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QIPL0wiJG1q5j_e4QJvx-42" value="Propietarios    " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="160" height="340" as="geometry" />
+          <mxGeometry x="440" y="40" width="160" height="330" as="geometry" />
         </mxCell>
         <mxCell id="QIPL0wiJG1q5j_e4QJvx-43" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QIPL0wiJG1q5j_e4QJvx-42">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QIPL0wiJG1q5j_e4QJvx-79" value="Inmueble" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="160" height="760" as="geometry" />
+          <mxGeometry x="640" y="40" width="160" height="750" as="geometry" />
         </mxCell>
         <mxCell id="QIPL0wiJG1q5j_e4QJvx-80" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QIPL0wiJG1q5j_e4QJvx-79">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
